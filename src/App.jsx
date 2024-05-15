@@ -96,7 +96,7 @@ const App = () => {
         "../src/assets/Images/17.webp",
         "../src/assets/Images/18.png",
         "../src/assets/Images/19.webp",
-        "../src/assets/Images/20.png",
+        "../src/assets/Images/20.png"
       ],
     },
   ];
