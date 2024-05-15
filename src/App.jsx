@@ -18,10 +18,10 @@ const App = () => {
       category: "smartphones",
       thumbnail: "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
       images: [
-        "./src/assets/Images/1.webp",
-        "./src/assets/Images/2.webp",
-        "./src/assets/Images/3.webp",
-        "./src/assets/Images/4.webp",
+        "../src/assets/1.webp",
+        "../src/assets/2.webp",
+        "../src/assets/3.webp",
+        "../src/assets/4.webp",
       ],
     },
     {
@@ -36,10 +36,10 @@ const App = () => {
       category: "smartphones",
       thumbnail: "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
       images: [
-        "./src/assets/Images/5.webp",
-        "./src/assets/Images/6.webp",
-        "./src/assets/Images/7.png",
-        "./src/assets/Images/8.png",
+        "../src/assets/5.webp",
+        "../src/assets/6.webp",
+        "../src/assets/7.png",
+        "../src/assets/8.png",
       ],
     },
 
@@ -55,10 +55,10 @@ const App = () => {
       category: "smartphones",
       thumbnail: "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
       images: [
-        "./src/assets/Images/9.webp",
-        "./src/assets/Images/10.webp",
-        "./src/assets/Images/11.png",
-        "./src/assets/Images/12.webp",
+        "../src/assets/9.webp",
+        "../src/assets/10.webp",
+        "../src/assets/11.png",
+        "../src/assets/12.webp",
       ],
     },
     {
@@ -74,10 +74,10 @@ const App = () => {
       category: "smartphones",
       thumbnail: "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
       images: [
-        "./src/assets/Images/13.webp",
-        "./src/assets/Images/14.webp",
-        "./src/assets/Images/15.webp",
-        "./src/assets/Images/16.webp",
+        "../src/assets/13.webp",
+        "../src/assets/14.webp",
+        "../src/assets/15.webp",
+        "../src/assets/16.webp",
       ],
     },
     {
@@ -93,10 +93,10 @@ const App = () => {
       category: "smartphones",
       thumbnail: "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
       images: [
-        "./src/assets/Images/17.webp",
-        "./src/assets/Images/18.png",
-        "./src/assets/Images/19.webp",
-        "./src/assets/Images/20.png"
+        "../src/assets/17.webp",
+        "../src/assets/18.png",
+        "../src/assets/19.webp",
+        "../src/assets/20.png"
       ],
     },
   ];
